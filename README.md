@@ -50,15 +50,15 @@ used to insure every file got a propper license.
 
 ## getting started
 
-- [ ] hit the "use this template" button and give your project a name
-- [ ] clone this new repository localy
-- [ ] replace content of README.md
-- [ ] Code
-   - [ ] put your code in the `src/` folder using platformio
-- [ ] PCB
-   - [ ] change the filenames in `pcb/*.kicad_*` matching your repository name
-   - [ ] create your PCB
-- [ ] run `reuse --lint`
-   - [ ] make sure the licenses of `pcb/*` fits your needs
-   - [ ] make sure the licenses of `src/*`, `include/*`, `lib/*`, `test/*` fits your needs
-- [ ] commit and push all those changes regulary to your project
+- [x] hit the "use this template" button and give your project a name
+- [x] clone this new repository localy
+- [x] replace content of README.md
+- [x] Code
+   - [x] put your code in the `src/` folder using platformio
+- [x] PCB
+   - [x] change the filenames in `pcb/*.kicad_*` matching your repository name
+   - [x] create your PCB
+- [x] run `reuse --lint`
+   - [x] make sure the licenses of `pcb/*` fits your needs
+   - [x] make sure the licenses of `src/*`, `include/*`, `lib/*`, `test/*` fits your needs
+- [x] commit and push all those changes regulary to your project
